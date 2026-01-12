@@ -1,0 +1,1 @@
+Este arquivo é do passo 3 da aula de Git
